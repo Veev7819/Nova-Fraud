@@ -23,6 +23,7 @@ A local REST API for real-time scoring
 
 
 🗂️ Project Structure
+```text
 Nova_Fraud/
 │
 ├── data/
@@ -54,7 +55,7 @@ Nova_Fraud/
 │
 ├── .gitignore
 ├── README.md
-
+```
 
 
 ## Notebook Flow Overview
