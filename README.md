@@ -109,6 +109,7 @@ GET http://localhost:8000/health
 Score Transactions
 POST http://localhost:8000/score
 
+```text
 Sample Request
  {
   "items": [
@@ -150,7 +151,7 @@ Sample Response
   ]
 }
 
-
+```
 ## Key Takeaway
 This project demonstrates how to move from raw transaction data to explainable, deployable fraud decisions, balancing accuracy, trust, and operational realism.
 
