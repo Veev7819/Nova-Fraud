@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#E11D48"              # red accent (risk)
+backgroundColor="#0E1117"           # main background
+secondaryBackgroundColor="#161B22"  # sidebar / containers
+textColor="#FAFAFA"
+font="sans serif"
